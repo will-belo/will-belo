@@ -10,8 +10,9 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-williamoliveira-42a5f5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/will-obs/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/will-belo?label=Will&style=social)](https://github.com/will-belo)
 
-### Um pouco mais sobre mim...
 </br>
+
+### Um pouco mais sobre mim...
 
 ```php
 <?php
