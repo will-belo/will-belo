@@ -11,6 +11,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/will-belo?label=Will&style=social)](https://github.com/will-belo)
 
 ### Um pouco mais sobre mim...
+</br>
 
 ```php
 <?php
@@ -52,7 +53,7 @@ class About extends Me
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 
-<div style="text-align: center;">
+<div align="center">
   <h2>Campeão de esconde-esconde</h2>
   <h1>;</h1>
   <h3>desde 1958<h3>
