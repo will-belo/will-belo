@@ -1,7 +1,7 @@
 # Oi, me chamo William
 
 <p>
-    <img src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" align="right" width="150">
+    <img src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" align="right" width="170">
     <em>Dev Full Stack pela <a href="https://fatecmogidascruzes.com.br/">Fatec de Mogi das Cruzes</a></em> <img src="https://media.tenor.com/rR90LoR-KUIAAAAi/codemodeon-code.gif" width="50">
     </br>
     <em>Motion Designer pela <a href="https://www.uninter.com/">Uninter</a></em> <img src="https://media.tenor.com/3RU387EL3gAAAAAj/motion-graphic.gif" width="50">
