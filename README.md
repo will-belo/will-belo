@@ -1,19 +1,11 @@
 # Oi, me chamo William
 
-<table style="width: 100%">
-    <tr>
-        <td>
-            <p>
-                <em>Dev Full Stack pela <a href="https://fatecmogidascruzes.com.br/">Fatec de Mogi das Cruzes</a></em> <img src="https://media.tenor.com/rR90LoR-KUIAAAAi/codemodeon-code.gif" width="50">
-                </br>
-                <em>Motion Designer pela <a href="https://www.uninter.com/">Uninter</a></em> <img src="https://media.tenor.com/3RU387EL3gAAAAAj/motion-graphic.gif" width="50">
-            </p>
-        </td>
-        <td>
-            <img src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" width="100">
-        </td>
-    </tr>
-</table>
+<p>
+    <img src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" align="right" width="150">
+    <em>Dev Full Stack pela <a href="https://fatecmogidascruzes.com.br/">Fatec de Mogi das Cruzes</a></em> <img src="https://media.tenor.com/rR90LoR-KUIAAAAi/codemodeon-code.gif" width="50">
+    </br>
+    <em>Motion Designer pela <a href="https://www.uninter.com/">Uninter</a></em> <img src="https://media.tenor.com/3RU387EL3gAAAAAj/motion-graphic.gif" width="50">
+</p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-williamoliveira-42a5f5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/will-obs/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/will-belo?label=Will&style=social)](https://github.com/will-belo)
