@@ -39,13 +39,13 @@ class About extends Me
 }
 ```
 
-### Meus status! <img src="https://media.tenor.com/p7RN1ieWP48AAAAi/thumbs-up-cat.gif" width="50">
+<div align="center">
+  <h3>Campeão de esconde-esconde:</h3>
+  <h2>;</h2>
+  <h4>desde 1958<h4>
+</div>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=will-belo&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github&locale=pt-br" align="left"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=will-belo&theme=transparent&hide_border=true&locale=pt-br&card_width=500" align="right"/>
-
-</br>
+## Outras skills!!  <img src="https://media.tenor.com/p7RN1ieWP48AAAAi/thumbs-up-cat.gif" width="50">
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -59,8 +59,8 @@ class About extends Me
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-<div align="center">
-  <h3>Campeão de esconde-esconde:</h3>
-  <h2>;</h2>
-  <h4>desde 1958<h4>
-</div>
+### Minhas estatísticas
+
+<img src="https://github-readme-stats.vercel.app/api?username=will-belo&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github&locale=pt-br" align="left"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=will-belo&theme=transparent&hide_border=true&locale=pt-br&card_width=400" align="right"/>
+
