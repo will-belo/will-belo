@@ -39,23 +39,28 @@ class About extends Me
 }
 ```
 
+### Meus status! <img src="https://media.tenor.com/p7RN1ieWP48AAAAi/thumbs-up-cat.gif" width="50">
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=will-belo&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github&locale=pt-br" align="left"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=will-belo&theme=transparent&hide_border=true&locale=pt-br&card_width=500" align="right"/>
+
+</br>
+
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-### Um pouco sobre MOTION! <img src="https://media.tenor.com/p7RN1ieWP48AAAAi/thumbs-up-cat.gif" width="50">
-
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-
 <div align="center">
-  <h2>Campeão de esconde-esconde:</h2>
-  <h1>;</h1>
-  <h3>desde 1958<h3>
+  <h3>Campeão de esconde-esconde:</h3>
+  <h2>;</h2>
+  <h4>desde 1958<h4>
 </div>
