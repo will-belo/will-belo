@@ -55,7 +55,7 @@ class About extends Me
 
 
 <div align="center">
-  <h2>Campeão de esconde-esconde</h2>
+  <h2>Campeão de esconde-esconde:</h2>
   <h1>;</h1>
   <h3>desde 1958<h3>
 </div>
