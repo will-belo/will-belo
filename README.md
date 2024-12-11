@@ -62,4 +62,4 @@ class About extends Me
 ### Minhas estatísticas
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=will-belo&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&locale=pt-br&hide=html,css," align="left"/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=will-belo&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=will-belo&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
