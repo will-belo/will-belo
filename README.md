@@ -63,4 +63,4 @@ class About extends Me
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=will-belo&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&locale=pt-br&hide=html,css," align="left"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=will-belo&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
-![](https://github-readme-streak-stats.herokuapp.com/?user=BodeDimitri&theme=transparent&hide_border=true&locale=pt-br&card_width=600)
+![teste](https://github-readme-streak-stats.herokuapp.com?user=will-belo&hide_border=true&locale=pt_BR)
