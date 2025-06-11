@@ -38,6 +38,9 @@ class About extends Me
     }
 }
 ```
+### Projetos desenvolvidos por mim e que atuei...
+https://oficinabrasil.com.br/
+https://institutodefor.com.br/
 
 <div align="center">
   <h3>Campeão de esconde-esconde:</h3>
