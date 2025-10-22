@@ -14,26 +14,59 @@
 
 ### Um pouco mais sobre mim...
 
-```php
-<?php
+```typescript
+abstract class Me {
+    public readonly name: string = 'William Oliveira';
+    public readonly role: string = ' Desenvolvedor Front-end Pleno/Sênior | Foco em Performance e Escalabilidade';
+    public readonly yearsOfExperience: number = 5;
 
-namespace WilliamOliveira;
+    public readonly passions: string[] = [
+        'Arquitetura de Software',
+        'Performance e Escalabilidade',
+        'Experiência do Usuário',
+    ];
 
-class About extends Me
-{
-    public function getArchitecture(): array
-    {
-        return ['MVC', 'Micro Services', 'Design Patterns'];
+    public abstract getArchitecture(): string[];
+    public abstract getSkills(): Array<new () => any>;
+}
+
+export class About extends Me {
+    public getArchitecture(): string[] {
+        return ['SOLID', 'DDD', 'Micro Services', 'Design Patterns'];
     }
 
-    public function getSkills(): array
-    {
+    public getSkills(): Array<new () => any> {
         return [
-            Git::class,
-            Docker::class,
-            Sass::class,
-            Kafka::class,
-            ApiRest::class,
+            class React {
+                framework: string = 'React';
+                type: string = 'Frontend Library';
+                focus: string[] = ['Component Architecture', 'Hooks', 'Performance Optimization'];
+                experience: string = 'Expert';
+            },
+            class NextJs {
+                framework: string = 'Next.js';
+                type: string = 'Fullstack React Framework';
+                focus: string[] = ['SSR', 'SSG', 'API Routes', 'Edge Functions'];
+                experience: string = 'Advanced';
+            },
+            class NodeJs {
+                runtime: string = 'Node.js';
+                type: string = 'Backend Runtime Environment';
+                focus: string[] = ['APIs REST', 'Microservices', 'Streams', 'Message Brokers'];
+                experience: string = 'Advanced';
+            },
+            class Jest {
+                tool: string = 'Jest';
+                type: string = 'Testing Framework';
+                focus: string[] = ['Unit Tests', 'Integration Tests', 'CI/CD Coverage'];
+                experience: string = 'Advanced';
+            },
+            class UXUI {
+                area: string = 'UX/UI';
+                type: string = 'Design & Usability';
+                focus: string[] = ['Design Systems', 'Figma', 'Accessibility', 'User Psychology'];
+                experience: string = 'Strong Understanding';
+            },
         ];
     }
 }
